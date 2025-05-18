@@ -10,6 +10,17 @@ Exercício de Programação Orientada a Objetos (POO) em Java para calcular e co
    - Compara as áreas para indicar a maior.
 3. **Saída formatada:** Exibe no console o resultado da operação.
 
+## :clipboard: Estrutura do Projeto
+src/
+
+├── app/
+
+│ └── CalcularAreaTriangulo.java # Classe principal com método main
+
+└── entities/
+
+└── Triangulo.java # Classe da entidade Triângulo com lógica de cálculo
+
 ## :dart: Objetivos de Aprendizagem
 Praticar conceitos fundamentais de POO:
 
